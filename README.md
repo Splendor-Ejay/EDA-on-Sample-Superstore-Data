@@ -26,6 +26,6 @@ This is a required task for the GRIP Data Science and Business Analytics interns
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kayson_ejay)
 ## Acknowledgements
 
- - [GRIP | The Sparks Foundation]([https://www.thesparksfoundationsingapore.org](https://internship.thesparksfoundation.info))
+ - [GRIP | The Sparks Foundation](https://internship.thesparksfoundation.info)
  - [GritinAI](https://gritinai.com)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
